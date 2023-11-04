@@ -1,8 +1,4 @@
-- [Publications](publications.html)
-- [Members](members.html)
-- [Teaching](teaching.html)
-- [Source](source.html)
-- [Join Us](joinus.html)
+- [Publications](publications.html)- [Members](members.html)- [Teaching](teaching.html)- [Source](source.html)- [Join Us](joinus.html)
 # 个人介绍
 
 欢迎来到我的个人介绍主页！下面是一些关于我的基本信息和兴趣爱好。
