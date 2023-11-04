@@ -41,6 +41,6 @@
 ## 联系方式
 
 - Email: 1@example.com
-- GitHub: [github.com/YELLOWHANDSOME1024](https://github.com/YELLOWHANDSOME1024)
+- GitHub: 
 
 
