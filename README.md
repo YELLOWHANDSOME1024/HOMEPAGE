@@ -40,7 +40,7 @@
 
 ## 联系方式
 
-- Email: john.doe@example.com
-- GitHub: [github.com/johndoe](https://github.com/johndoe)
+- Email: 1@example.com
+- GitHub: [github.com/johndoe](https://github.com/YELLOWHANDSOME1024)
 
 
