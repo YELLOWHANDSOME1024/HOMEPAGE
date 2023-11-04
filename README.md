@@ -1,4 +1,3 @@
-- [Publications](publications.html)- [Members](members.html)- [Teaching](teaching.html)- [Source](source.html)- [Join Us](joinus.html)
 # 个人介绍
 
 欢迎来到我的个人介绍主页！下面是一些关于我的基本信息和兴趣爱好。
@@ -21,4 +20,9 @@
 - Email: john.doe@example.com
 - GitHub: [github.com/johndoe](https://github.com/johndoe)
 
-
+<!-- 分栏界面开始 -->
+| Publications | Members | Teaching | Source | Join Us |
+|--------------|---------|----------|--------|---------|
+| 写下相关的   | 写下团队  | 写下教学  | 写下资源| 写下加入 |
+| 内容         | 内容    | 内容     | 内容   | 内容    |
+<!-- 分栏界面结束 -->
