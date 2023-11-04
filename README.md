@@ -1,3 +1,17 @@
+<!-- CSS -->
+<style>
+.columns {
+  display: flex;
+}
+
+.column {
+  flex: 1;
+  text-align: center;
+  padding: 10px;
+  background-color: #f2f2f2;
+}
+</style>
+<!-- README.md -->
 # 个人介绍
 
 欢迎来到我的个人介绍主页！下面是一些关于我的基本信息和兴趣爱好。
@@ -21,8 +35,11 @@
 - GitHub: [github.com/johndoe](https://github.com/johndoe)
 
 <!-- 分栏界面开始 -->
-| Publications | Members | Teaching | Source | Join Us |
-|--------------|---------|----------|--------|---------|
-| 写下相关的   | 写下团队  | 写下教学  | 写下资源| 写下加入 |
-| 内容         | 内容    | 内容     | 内容   | 内容    |
+<div class="columns">
+  <a href="publications.html" class="column">Publications</a>
+  <a href="members.html" class="column">Members</a>
+  <a href="teaching.html" class="column">Teaching</a>
+  <a href="source.html" class="column">Source</a>
+  <a href="joinus.html" class="column">Join Us</a>
+</div>
 <!-- 分栏界面结束 -->
